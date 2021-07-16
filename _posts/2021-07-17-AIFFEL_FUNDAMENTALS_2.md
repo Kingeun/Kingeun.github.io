@@ -31,6 +31,7 @@ title:  "Python_기초2"
 >movie=Movie()  #movie변수에 Movie클래스의 인스턴스를 할당했다.
 ```
 클래스명 표기법은 아래 링크에 자세히 설명 되어 있다. 
+
 [링크텍스트](https://www.python.org/dev/peps/pep-0008/)
 
 
