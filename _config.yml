@@ -24,7 +24,7 @@ description              : "AI 개발자가 되고 싶은 사람입니다. "
 url                      : "https://Kingeun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/나무늘보.PNG"
+teaser                   : "/assets/images/image.PNG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
