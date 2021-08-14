@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Python_기초2"
+comments: true
+categories: Python
 ---
 
 예전부터 정리하려던 클래스(class)를 정리하려고 한다...클래스 개념이 이해하기 어려웠는데 퍼실님이 추천해주신 영상을 보고 조금은 이해가 됐다.
