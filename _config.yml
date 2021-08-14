@@ -19,8 +19,8 @@ locale                   : "Korea"
 title                    : "Kingeun"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ParkKyungEun"
-description              : "An amazing website."
+name                     : "PKE"
+description              : "AI 개발자가 되고 싶은 사람입니다. "
 url                      : "https://Kingeun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "ParkKyungEun"
+  name             : "PKE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "딥린이 탈출 일지"
-  location         : "Somewhere"
+  bio              : "딥린이 탈출일지"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
