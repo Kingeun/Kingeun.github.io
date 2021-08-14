@@ -1,6 +1,8 @@
 ---
-layout: single
-title:  "Python_기초1!"
+layout: post
+title: "Python_기초1"
+comments: true
+categories: Python
 ---
 Fundamentals Stage 시간의 노드 내용과 Python master 시간의 코딩도장을 복습해보려고 한다..! 시작한 지 벌써 1주일이 지났다. 2주차부터는 내용이 점점 더 어려워져서 주어진 시간에 다 못끝낸다. Python을 빨리 마스터하고 싶다.
 지금까지 Aiffel에서 공부한 Python 내용들을 부족하지만 정리하려고 한다.
