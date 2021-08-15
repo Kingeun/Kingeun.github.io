@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "Posts"
     url: https://kingeun.github.io/
   - title: "Categories"
     url: /categories/
-  - title: "About"
-    url: /about/
 
