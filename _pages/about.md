@@ -1,5 +1,5 @@
 ---
-title: "이 블로그 설명서"
+title: "안녕하세요! 딥린이 탈출일지입니다."
 permalink: /about/
 layout: single
 ---
